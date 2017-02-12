@@ -44,7 +44,8 @@ public class ParsedTextFile {
      * <p>Разделяет текст на слова и сохраняет их в words</p>
      * перед добавлением удаляет незначимые символы (знаки препинания(кроме "-") и цифры)
      * и переводит строку в нижний регистр
-     * @throws Exception если в файле встречается неразрешенный символ
+     * @throws IllegalArgumentException если в файле встречается неразрешенный символ
+     * @throws IOException если есть проблемы с чтением файла
      */
     private void parseReader(BufferedReader buffReader) throws IOException {
         while (buffReader.ready()) {
