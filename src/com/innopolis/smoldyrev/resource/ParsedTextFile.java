@@ -1,5 +1,7 @@
 package com.innopolis.smoldyrev.resource;
 
+import com.innopolis.smoldyrev.exeptions.IllegalStringLineExeption;
+
 import java.io.*;
 import java.net.URL;
 import java.util.ArrayList;
@@ -8,7 +10,7 @@ public class ParsedTextFile {
 
     private final String filePath;
 
-    private ArrayList<String> words = new ArrayList<>(/*file.length()/16?*/);
+    private ArrayList<String> words;
 
     public ArrayList<String> getWords() {
         return words;
@@ -24,7 +26,7 @@ public class ParsedTextFile {
      * и добавляет их в массив words
      * @see ParsedTextFile#ParsedTextFile(String)
      */
-    public ParsedTextFile(String filePath) throws IOException {
+    public ParsedTextFile(String filePath) throws IOException, IllegalStringLineExeption {
 
         this.filePath = filePath;
         InputStream stream;
@@ -47,7 +49,12 @@ public class ParsedTextFile {
      * @throws IllegalArgumentException если в файле встречается неразрешенный символ
      * @throws IOException если есть проблемы с чтением файла
      */
-    private void parseReader(BufferedReader buffReader) throws IOException {
+    private void parseReader(BufferedReader buffReader) throws IOException, IllegalStringLineExeption {
+
+        /*File file = new File(filePath);
+        file.length();*/
+        words = new ArrayList<>(/*file.length()/16?*/);
+
         while (buffReader.ready()) {
 
             for (String str: buffReader.readLine().split("\\s+")) {
@@ -61,8 +68,10 @@ public class ParsedTextFile {
                     }
 
                 } else {
-                    throw new IllegalArgumentException("Текст \""+ getFilePath() + "\" содержит не кирилические символы!");
+                    throw new IllegalStringLineExeption(
+                            "Текст \""+ getFilePath() + "\" содержит не кирилические символы!");
                 }
+                words.trimToSize();
             }
         }
     }
