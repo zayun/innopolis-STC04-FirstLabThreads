@@ -4,7 +4,7 @@ import java.io.*;
 import java.net.URL;
 import java.util.ArrayList;
 
-public class ParsedTextFile{
+public class ParsedTextFile {
 
     private final String filePath;
 
@@ -37,14 +37,7 @@ public class ParsedTextFile{
         }
 
         BufferedReader buffReader = new BufferedReader(new InputStreamReader(stream));
-        try {
-            parseReader(buffReader);
-        } catch (Exception e) {
-            System.out.println(e.getMessage());
-        } finally {
-            buffReader.close();
-            stream.close();
-        }
+        parseReader(buffReader);
     }
 
     /**
@@ -53,7 +46,7 @@ public class ParsedTextFile{
      * и переводит строку в нижний регистр
      * @throws Exception если в файле встречается неразрешенный символ
      */
-    private void parseReader(BufferedReader buffReader) throws Exception {
+    private void parseReader(BufferedReader buffReader) throws IOException {
         while (buffReader.ready()) {
 
             for (String str: buffReader.readLine().split("\\s+")) {
@@ -61,9 +54,13 @@ public class ParsedTextFile{
                 if (isValidValue(str)) {
                     /*приводим слова в правильный вид*/
                     str = str.replaceAll("[^А-Яа-яёЁ-]","").toLowerCase();
-                    words.add(str);
+
+                    if (!("".equals(str))) {
+                        words.add(str);
+                    }
+
                 } else {
-                    throw new Exception("Текст \""+ getFilePath() + "\" содержит не кирилические символы!");
+                    throw new IllegalArgumentException("Текст \""+ getFilePath() + "\" содержит не кирилические символы!");
                 }
             }
         }

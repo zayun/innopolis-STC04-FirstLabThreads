@@ -4,8 +4,6 @@ import com.innopolis.smoldyrev.collector.ThreadWordCollect;
 import com.innopolis.smoldyrev.collector.WordCollector;
 import com.innopolis.smoldyrev.resource.ParsedTextFile;
 
-import java.io.IOException;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -19,7 +17,7 @@ public class Main {
                                 new ParsedTextFile(filePath).getWords(), wordCollector));
                 thread.start();
 
-            } catch (IOException e) {
+            } catch (Exception e) {
                 ThreadWordCollect.setError(true);
                 System.out.println(e.getMessage());
             }
