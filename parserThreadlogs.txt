@@ -1,0 +1,785 @@
+TRACE   2017-02-14 19:13:13,773 [Thread-0] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/5.txt was parsed. 6 words
+TRACE   2017-02-14 19:13:13,775 [Thread-0] com.innopolis.smoldyrev.collector.WordCollector  - егор added in collection
+TRACE   2017-02-14 19:13:13,778 [Thread-1] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/6.txt was parsed. 3 words
+TRACE   2017-02-14 19:13:13,778 [Thread-1] com.innopolis.smoldyrev.collector.WordCollector  - идея added in collection
+TRACE   2017-02-14 19:13:50,091 [Thread-0] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/5.txt was parsed. 6 words
+TRACE   2017-02-14 19:13:50,092 [Thread-0] com.innopolis.smoldyrev.collector.WordCollector  - егор added in collection
+TRACE   2017-02-14 19:13:50,092 [Thread-1] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/6.txt was parsed. 3 words
+TRACE   2017-02-14 19:13:50,093 [Thread-1] com.innopolis.smoldyrev.collector.WordCollector  - идея added in collection
+TRACE   2017-02-14 19:13:50,144 [Thread-2] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/1.txt was parsed. 231 words
+TRACE   2017-02-14 19:13:50,144 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - северовирджинская added in collection
+TRACE   2017-02-14 19:13:50,144 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - кампания added in collection
+TRACE   2017-02-14 19:13:50,144 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - серия added in collection
+TRACE   2017-02-14 19:13:50,145 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - сражений added in collection
+TRACE   2017-02-14 19:13:50,145 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - на added in collection
+TRACE   2017-02-14 19:13:50,145 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - территории added in collection
+TRACE   2017-02-14 19:13:50,145 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - штата added in collection
+TRACE   2017-02-14 19:13:50,145 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - вирджиния added in collection
+TRACE   2017-02-14 19:13:50,145 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - которые added in collection
+TRACE   2017-02-14 19:13:50,145 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - произошли added in collection
+TRACE   2017-02-14 19:13:50,145 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - в added in collection
+TRACE   2017-02-14 19:13:50,145 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - августе added in collection
+TRACE   2017-02-14 19:13:50,145 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - и added in collection
+TRACE   2017-02-14 19:13:50,145 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - сентябре added in collection
+TRACE   2017-02-14 19:13:50,145 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - года added in collection
+TRACE   2017-02-14 19:13:50,150 [Thread-3] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/2.txt was parsed. 231 words
+TRACE   2017-02-14 19:13:50,151 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - ходе added in collection
+TRACE   2017-02-14 19:13:50,151 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - американской added in collection
+TRACE   2017-02-14 19:13:50,151 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - гражданской added in collection
+TRACE   2017-02-14 19:13:50,151 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - войны added in collection
+TRACE   2017-02-14 19:13:50,151 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - генерал added in collection
+TRACE   2017-02-14 19:13:50,151 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - конфедерации added in collection
+TRACE   2017-02-14 19:13:50,151 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - роберт added in collection
+TRACE   2017-02-14 19:13:50,151 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - ли added in collection
+TRACE   2017-02-14 19:13:50,151 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - сумел added in collection
+TRACE   2017-02-14 19:13:50,152 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - развить added in collection
+TRACE   2017-02-14 19:13:50,152 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - свой added in collection
+TRACE   2017-02-14 19:13:50,152 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - успех added in collection
+TRACE   2017-02-14 19:13:50,152 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - семидневной added in collection
+TRACE   2017-02-14 19:13:50,152 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - битве added in collection
+TRACE   2017-02-14 19:13:50,152 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - перенёс added in collection
+TRACE   2017-02-14 19:13:50,152 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - боевые added in collection
+TRACE   2017-02-14 19:13:50,152 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - действия added in collection
+TRACE   2017-02-14 19:13:50,152 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - северную added in collection
+TRACE   2017-02-14 19:13:50,152 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - вирджинию added in collection
+TRACE   2017-02-14 19:13:50,153 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - где added in collection
+TRACE   2017-02-14 19:13:50,153 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - разбил added in collection
+TRACE   2017-02-14 19:13:50,153 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - федеральную added in collection
+TRACE   2017-02-14 19:13:50,153 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - вирджинскую added in collection
+TRACE   2017-02-14 19:13:50,153 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - армию added in collection
+TRACE   2017-02-14 19:13:50,153 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - генерала added in collection
+TRACE   2017-02-14 19:13:50,153 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - джона added in collection
+TRACE   2017-02-14 19:13:50,153 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - поупа added in collection
+TRACE   2017-02-14 19:13:50,153 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - заставив added in collection
+TRACE   2017-02-14 19:13:50,153 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - её added in collection
+TRACE   2017-02-14 19:13:50,153 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - отступить added in collection
+TRACE   2017-02-14 19:13:50,153 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - укрепления added in collection
+TRACE   2017-02-14 19:13:50,154 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - вашингтона added in collection
+TRACE   2017-02-14 19:13:50,154 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - предполагая added in collection
+TRACE   2017-02-14 19:13:50,154 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - что added in collection
+TRACE   2017-02-14 19:13:50,154 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - потомакская added in collection
+TRACE   2017-02-14 19:13:50,154 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - армия added in collection
+TRACE   2017-02-14 19:13:50,154 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - вирджинском added in collection
+TRACE   2017-02-14 19:13:50,154 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - полуострове added in collection
+TRACE   2017-02-14 19:13:50,154 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - намерена added in collection
+TRACE   2017-02-14 19:13:50,154 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - соединиться added in collection
+TRACE   2017-02-14 19:13:50,154 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - с added in collection
+TRACE   2017-02-14 19:13:50,154 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - вирджинской added in collection
+TRACE   2017-02-14 19:13:50,159 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - армией added in collection
+TRACE   2017-02-14 19:13:50,159 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - отправил added in collection
+TRACE   2017-02-14 19:13:50,159 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - несколько added in collection
+TRACE   2017-02-14 19:13:50,159 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - дивизий added in collection
+TRACE   2017-02-14 19:13:50,159 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - томаса added in collection
+TRACE   2017-02-14 19:13:50,159 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - джексона added in collection
+TRACE   2017-02-14 19:13:50,159 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - от added in collection
+TRACE   2017-02-14 19:13:50,159 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - ричмонда added in collection
+TRACE   2017-02-14 19:13:50,159 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - север added in collection
+TRACE   2017-02-14 19:13:50,160 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - чтобы added in collection
+TRACE   2017-02-14 19:13:50,160 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - сорвать added in collection
+TRACE   2017-02-14 19:13:50,160 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - наступление added in collection
+TRACE   2017-02-14 19:13:50,160 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - гордонсвилл added in collection
+TRACE   2017-02-14 19:13:50,160 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - по added in collection
+TRACE   2017-02-14 19:13:50,160 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - возможности added in collection
+TRACE   2017-02-14 19:13:50,160 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - разбить added in collection
+TRACE   2017-02-14 19:13:50,160 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - его added in collection
+TRACE   2017-02-14 19:13:50,160 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - до added in collection
+TRACE   2017-02-14 19:13:50,160 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - подхода added in collection
+TRACE   2017-02-14 19:13:50,160 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - корпусов added in collection
+TRACE   2017-02-14 19:13:50,161 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - потомакской added in collection
+TRACE   2017-02-14 19:13:50,161 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - армии added in collection
+TRACE   2017-02-14 19:13:50,161 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - августа added in collection
+TRACE   2017-02-14 19:13:50,161 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - произошло added in collection
+TRACE   2017-02-14 19:13:50,161 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - небольшое added in collection
+TRACE   2017-02-14 19:13:50,161 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - столкновение added in collection
+TRACE   2017-02-14 19:13:50,161 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - у added in collection
+TRACE   2017-02-14 19:13:50,161 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - кедровой added in collection
+TRACE   2017-02-14 19:13:50,161 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - горы added in collection
+TRACE   2017-02-14 19:13:50,161 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - которое added in collection
+TRACE   2017-02-14 19:13:50,161 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - закончилось added in collection
+TRACE   2017-02-14 19:13:50,162 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - победой added in collection
+TRACE   2017-02-14 19:13:50,162 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - юга added in collection
+TRACE   2017-02-14 19:13:50,162 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - предположил added in collection
+TRACE   2017-02-14 19:13:50,162 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - макклеллана added in collection
+TRACE   2017-02-14 19:13:50,162 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - более added in collection
+TRACE   2017-02-14 19:13:50,162 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - не added in collection
+TRACE   2017-02-14 19:13:50,162 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - угрожает added in collection
+TRACE   2017-02-14 19:13:50,162 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - ричмонду added in collection
+TRACE   2017-02-14 19:13:50,162 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - поэтому added in collection
+TRACE   2017-02-14 19:13:50,173 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - все added in collection
+TRACE   2017-02-14 19:13:50,173 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - остальные added in collection
+TRACE   2017-02-14 19:13:50,173 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - дивизии added in collection
+TRACE   2017-02-14 19:13:50,173 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - под added in collection
+TRACE   2017-02-14 19:13:50,173 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - командованием added in collection
+TRACE   2017-02-14 19:13:50,173 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - джеймса added in collection
+TRACE   2017-02-14 19:13:50,174 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - лонгстрита added in collection
+TRACE   2017-02-14 19:13:50,174 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - вслед added in collection
+TRACE   2017-02-14 19:13:50,174 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - за added in collection
+TRACE   2017-02-14 19:13:50,174 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - джексоном added in collection
+TRACE   2017-02-14 19:13:50,174 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - он added in collection
+TRACE   2017-02-14 19:13:50,174 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - планировал added in collection
+TRACE   2017-02-14 19:13:50,174 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - окружить added in collection
+TRACE   2017-02-14 19:13:50,174 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - противника added in collection
+TRACE   2017-02-14 19:13:50,174 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - рубеже added in collection
+TRACE   2017-02-14 19:13:50,175 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - реки added in collection
+TRACE   2017-02-14 19:13:50,175 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - рапидан added in collection
+TRACE   2017-02-14 19:13:50,175 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - но added in collection
+TRACE   2017-02-14 19:13:50,175 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - этот added in collection
+TRACE   2017-02-14 19:13:50,175 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - план added in collection
+TRACE   2017-02-14 19:13:50,176 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - сорвался added in collection
+TRACE   2017-02-14 19:13:50,176 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - тогда added in collection
+TRACE   2017-02-14 19:13:50,176 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - томас added in collection
+TRACE   2017-02-14 19:13:50,176 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - джексон added in collection
+TRACE   2017-02-14 19:13:50,176 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - совершил added in collection
+TRACE   2017-02-14 19:13:50,176 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - глубокий added in collection
+TRACE   2017-02-14 19:13:50,176 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - фланговый added in collection
+TRACE   2017-02-14 19:13:50,176 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - обход added in collection
+TRACE   2017-02-14 19:13:50,176 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - захватил added in collection
+TRACE   2017-02-14 19:13:50,177 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - манассас added in collection
+TRACE   2017-02-14 19:13:50,177 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - крупную added in collection
+TRACE   2017-02-14 19:13:50,177 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - базу added in collection
+TRACE   2017-02-14 19:13:50,177 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - снабжения added in collection
+TRACE   2017-02-14 19:13:50,177 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - тылу added in collection
+TRACE   2017-02-14 19:13:50,177 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - федеральной added in collection
+TRACE   2017-02-14 19:13:50,177 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - затем added in collection
+TRACE   2017-02-14 19:13:50,177 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - отступил added in collection
+TRACE   2017-02-14 19:13:50,177 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - выгодную added in collection
+TRACE   2017-02-14 19:13:50,177 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - позицию added in collection
+TRACE   2017-02-14 19:13:50,177 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - возле added in collection
+TRACE   2017-02-14 19:13:50,178 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - того added in collection
+TRACE   2017-02-14 19:13:50,178 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - места added in collection
+TRACE   2017-02-14 19:13:50,178 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - году added in collection
+TRACE   2017-02-14 19:13:50,178 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - первое added in collection
+TRACE   2017-02-14 19:13:50,178 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - сражение added in collection
+TRACE   2017-02-14 19:13:50,178 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - при added in collection
+TRACE   2017-02-14 19:13:50,178 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - булл-ран added in collection
+TRACE   2017-02-14 19:13:50,178 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - отразил added in collection
+TRACE   2017-02-14 19:13:50,178 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - атак added in collection
+TRACE   2017-02-14 19:13:50,179 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - последовала added in collection
+TRACE   2017-02-14 19:13:50,179 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - совместная added in collection
+TRACE   2017-02-14 19:13:50,179 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - атака added in collection
+TRACE   2017-02-14 19:13:50,179 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - которая added in collection
+TRACE   2017-02-14 19:13:50,179 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - застала added in collection
+TRACE   2017-02-14 19:13:50,179 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - врасплох added in collection
+TRACE   2017-02-14 19:13:50,179 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - заставила added in collection
+TRACE   2017-02-14 19:13:50,180 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - большими added in collection
+TRACE   2017-02-14 19:13:50,180 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - потерями added in collection
+TRACE   2017-02-14 19:13:50,180 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - завершилась added in collection
+TRACE   2017-02-14 19:13:50,180 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - ещё added in collection
+TRACE   2017-02-14 19:13:50,180 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - одним added in collection
+TRACE   2017-02-14 19:13:50,180 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - манёвром added in collection
+TRACE   2017-02-14 19:13:50,180 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - который added in collection
+TRACE   2017-02-14 19:13:50,180 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - сентября added in collection
+TRACE   2017-02-14 19:13:50,180 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - привёл added in collection
+TRACE   2017-02-14 19:13:50,180 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - к added in collection
+TRACE   2017-02-14 19:13:50,180 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - сражению added in collection
+TRACE   2017-02-14 19:13:50,180 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - шантильи added in collection
+TRACE   2017-02-14 19:13:50,181 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - управлению added in collection
+TRACE   2017-02-14 19:13:50,181 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - войсками added in collection
+TRACE   2017-02-14 19:13:50,181 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - этой added in collection
+TRACE   2017-02-14 19:13:50,181 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - кампании added in collection
+TRACE   2017-02-14 19:13:50,181 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - считаются added in collection
+TRACE   2017-02-14 19:13:50,181 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - шедевром added in collection
+TRACE   2017-02-14 19:13:50,181 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - военного added in collection
+TRACE   2017-02-14 19:13:50,181 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - искусства added in collection
+TRACE   2017-02-14 19:13:50,181 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - историк added in collection
+TRACE   2017-02-14 19:13:50,181 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - джон added in collection
+TRACE   2017-02-14 19:13:50,181 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - хеннесси added in collection
+TRACE   2017-02-14 19:13:50,181 [Thread-2] com.innopolis.smoldyrev.collector.WordCollector  - писал added in collection
+TRACE   2017-02-14 19:13:50,340 [Thread-4] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/3.txt was parsed. 7371 words
+TRACE   2017-02-14 19:13:50,356 [Thread-4] com.innopolis.smoldyrev.collector.WordCollector  - чтосеверовирджинская added in collection
+ERROR   2017-02-14 19:14:34,932 [Thread-1] com.innopolis.smoldyrev.collector.ThreadWordCollect  - resogurces/6.txt (Нет такого файла или каталога)
+TRACE   2017-02-14 19:14:34,938 [Thread-0] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/5.txt was parsed. 6 words
+TRACE   2017-02-14 19:14:34,977 [Thread-3] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/2.txt was parsed. 231 words
+TRACE   2017-02-14 19:14:34,982 [Thread-2] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/1.txt was parsed. 231 words
+TRACE   2017-02-14 19:14:35,120 [Thread-4] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/3.txt was parsed. 7371 words
+TRACE   2017-02-14 19:15:18,394 [Thread-1] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/6.txt was parsed. 3 words
+TRACE   2017-02-14 19:15:18,397 [Thread-1] com.innopolis.smoldyrev.collector.WordCollector  - идея added in collection
+TRACE   2017-02-14 19:15:18,397 [Thread-0] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/5.txt was parsed. 6 words
+TRACE   2017-02-14 19:15:18,397 [Thread-0] com.innopolis.smoldyrev.collector.WordCollector  - егор added in collection
+TRACE   2017-02-14 19:15:18,432 [Thread-3] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/2.txt was parsed. 231 words
+TRACE   2017-02-14 19:15:18,432 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - северовирджинская added in collection
+TRACE   2017-02-14 19:15:18,432 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - кампания added in collection
+TRACE   2017-02-14 19:15:18,433 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - серия added in collection
+TRACE   2017-02-14 19:15:18,433 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - сражений added in collection
+TRACE   2017-02-14 19:15:18,433 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - на added in collection
+TRACE   2017-02-14 19:15:18,433 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - территории added in collection
+TRACE   2017-02-14 19:15:18,433 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - штата added in collection
+TRACE   2017-02-14 19:15:18,433 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - вирджиния added in collection
+TRACE   2017-02-14 19:15:18,433 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - которые added in collection
+TRACE   2017-02-14 19:15:18,433 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - произошли added in collection
+TRACE   2017-02-14 19:15:18,433 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - в added in collection
+TRACE   2017-02-14 19:15:18,433 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - августе added in collection
+TRACE   2017-02-14 19:15:18,433 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - и added in collection
+TRACE   2017-02-14 19:15:18,433 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - сентябре added in collection
+TRACE   2017-02-14 19:15:18,433 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - года added in collection
+TRACE   2017-02-14 19:15:18,434 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - ходе added in collection
+TRACE   2017-02-14 19:15:18,434 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - американской added in collection
+TRACE   2017-02-14 19:15:18,434 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - гражданской added in collection
+TRACE   2017-02-14 19:15:18,439 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - войны added in collection
+TRACE   2017-02-14 19:15:18,439 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - генерал added in collection
+TRACE   2017-02-14 19:15:18,439 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - конфедерации added in collection
+TRACE   2017-02-14 19:15:18,439 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - роберт added in collection
+TRACE   2017-02-14 19:15:18,439 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - ли added in collection
+TRACE   2017-02-14 19:15:18,439 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - сумел added in collection
+TRACE   2017-02-14 19:15:18,439 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - развить added in collection
+TRACE   2017-02-14 19:15:18,440 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - свой added in collection
+TRACE   2017-02-14 19:15:18,440 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - успех added in collection
+TRACE   2017-02-14 19:15:18,440 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - семидневной added in collection
+TRACE   2017-02-14 19:15:18,440 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - битве added in collection
+TRACE   2017-02-14 19:15:18,440 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - перенёс added in collection
+TRACE   2017-02-14 19:15:18,440 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - боевые added in collection
+TRACE   2017-02-14 19:15:18,440 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - действия added in collection
+TRACE   2017-02-14 19:15:18,440 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - северную added in collection
+TRACE   2017-02-14 19:15:18,440 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - вирджинию added in collection
+TRACE   2017-02-14 19:15:18,440 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - где added in collection
+TRACE   2017-02-14 19:15:18,440 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - разбил added in collection
+TRACE   2017-02-14 19:15:18,441 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - федеральную added in collection
+TRACE   2017-02-14 19:15:18,441 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - вирджинскую added in collection
+TRACE   2017-02-14 19:15:18,441 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - армию added in collection
+TRACE   2017-02-14 19:15:18,441 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - генерала added in collection
+TRACE   2017-02-14 19:15:18,441 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - джона added in collection
+TRACE   2017-02-14 19:15:18,441 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - поупа added in collection
+TRACE   2017-02-14 19:15:18,441 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - заставив added in collection
+TRACE   2017-02-14 19:15:18,441 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - её added in collection
+TRACE   2017-02-14 19:15:18,441 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - отступить added in collection
+TRACE   2017-02-14 19:15:18,441 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - укрепления added in collection
+TRACE   2017-02-14 19:15:18,441 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - вашингтона added in collection
+TRACE   2017-02-14 19:15:18,441 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - предполагая added in collection
+TRACE   2017-02-14 19:15:18,441 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - что added in collection
+TRACE   2017-02-14 19:15:18,442 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - потомакская added in collection
+TRACE   2017-02-14 19:15:18,442 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - армия added in collection
+TRACE   2017-02-14 19:15:18,442 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - вирджинском added in collection
+TRACE   2017-02-14 19:15:18,442 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - полуострове added in collection
+TRACE   2017-02-14 19:15:18,442 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - намерена added in collection
+TRACE   2017-02-14 19:15:18,442 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - соединиться added in collection
+TRACE   2017-02-14 19:15:18,442 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - с added in collection
+TRACE   2017-02-14 19:15:18,442 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - вирджинской added in collection
+TRACE   2017-02-14 19:15:18,442 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - армией added in collection
+TRACE   2017-02-14 19:15:18,444 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - отправил added in collection
+TRACE   2017-02-14 19:15:18,444 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - несколько added in collection
+TRACE   2017-02-14 19:15:18,445 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - дивизий added in collection
+TRACE   2017-02-14 19:15:18,445 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - томаса added in collection
+TRACE   2017-02-14 19:15:18,445 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - джексона added in collection
+TRACE   2017-02-14 19:15:18,445 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - от added in collection
+TRACE   2017-02-14 19:15:18,445 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - ричмонда added in collection
+TRACE   2017-02-14 19:15:18,445 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - север added in collection
+TRACE   2017-02-14 19:15:18,445 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - чтобы added in collection
+TRACE   2017-02-14 19:15:18,445 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - сорвать added in collection
+TRACE   2017-02-14 19:15:18,445 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - наступление added in collection
+TRACE   2017-02-14 19:15:18,445 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - гордонсвилл added in collection
+TRACE   2017-02-14 19:15:18,446 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - по added in collection
+TRACE   2017-02-14 19:15:18,446 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - возможности added in collection
+TRACE   2017-02-14 19:15:18,446 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - разбить added in collection
+TRACE   2017-02-14 19:15:18,446 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - его added in collection
+TRACE   2017-02-14 19:15:18,446 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - до added in collection
+TRACE   2017-02-14 19:15:18,446 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - подхода added in collection
+TRACE   2017-02-14 19:15:18,446 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - корпусов added in collection
+TRACE   2017-02-14 19:15:18,449 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - потомакской added in collection
+TRACE   2017-02-14 19:15:18,449 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - армии added in collection
+TRACE   2017-02-14 19:15:18,450 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - августа added in collection
+TRACE   2017-02-14 19:15:18,450 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - произошло added in collection
+TRACE   2017-02-14 19:15:18,450 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - небольшое added in collection
+TRACE   2017-02-14 19:15:18,450 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - столкновение added in collection
+TRACE   2017-02-14 19:15:18,450 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - у added in collection
+TRACE   2017-02-14 19:15:18,450 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - кедровой added in collection
+TRACE   2017-02-14 19:15:18,450 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - горы added in collection
+TRACE   2017-02-14 19:15:18,450 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - которое added in collection
+TRACE   2017-02-14 19:15:18,450 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - закончилось added in collection
+TRACE   2017-02-14 19:15:18,450 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - победой added in collection
+TRACE   2017-02-14 19:15:18,450 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - юга added in collection
+TRACE   2017-02-14 19:15:18,450 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - предположил added in collection
+TRACE   2017-02-14 19:15:18,451 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - макклеллана added in collection
+TRACE   2017-02-14 19:15:18,451 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - более added in collection
+TRACE   2017-02-14 19:15:18,451 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - не added in collection
+TRACE   2017-02-14 19:15:18,451 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - угрожает added in collection
+TRACE   2017-02-14 19:15:18,451 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - ричмонду added in collection
+TRACE   2017-02-14 19:15:18,451 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - поэтому added in collection
+TRACE   2017-02-14 19:15:18,451 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - все added in collection
+TRACE   2017-02-14 19:15:18,451 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - остальные added in collection
+TRACE   2017-02-14 19:15:18,451 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - дивизии added in collection
+TRACE   2017-02-14 19:15:18,451 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - под added in collection
+TRACE   2017-02-14 19:15:18,452 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - командованием added in collection
+TRACE   2017-02-14 19:15:18,452 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - джеймса added in collection
+TRACE   2017-02-14 19:15:18,452 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - лонгстрита added in collection
+TRACE   2017-02-14 19:15:18,452 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - вслед added in collection
+TRACE   2017-02-14 19:15:18,452 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - за added in collection
+TRACE   2017-02-14 19:15:18,452 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - джексоном added in collection
+TRACE   2017-02-14 19:15:18,452 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - он added in collection
+TRACE   2017-02-14 19:15:18,452 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - планировал added in collection
+TRACE   2017-02-14 19:15:18,452 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - окружить added in collection
+TRACE   2017-02-14 19:15:18,452 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - противника added in collection
+TRACE   2017-02-14 19:15:18,452 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - рубеже added in collection
+TRACE   2017-02-14 19:15:18,453 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - реки added in collection
+TRACE   2017-02-14 19:15:18,453 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - рапидан added in collection
+TRACE   2017-02-14 19:15:18,453 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - но added in collection
+TRACE   2017-02-14 19:15:18,453 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - этот added in collection
+TRACE   2017-02-14 19:15:18,453 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - план added in collection
+TRACE   2017-02-14 19:15:18,453 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - сорвался added in collection
+TRACE   2017-02-14 19:15:18,453 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - тогда added in collection
+TRACE   2017-02-14 19:15:18,453 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - томас added in collection
+TRACE   2017-02-14 19:15:18,453 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - джексон added in collection
+TRACE   2017-02-14 19:15:18,453 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - совершил added in collection
+TRACE   2017-02-14 19:15:18,453 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - глубокий added in collection
+TRACE   2017-02-14 19:15:18,453 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - фланговый added in collection
+TRACE   2017-02-14 19:15:18,454 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - обход added in collection
+TRACE   2017-02-14 19:15:18,454 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - захватил added in collection
+TRACE   2017-02-14 19:15:18,454 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - манассас added in collection
+TRACE   2017-02-14 19:15:18,454 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - крупную added in collection
+TRACE   2017-02-14 19:15:18,454 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - базу added in collection
+TRACE   2017-02-14 19:15:18,454 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - снабжения added in collection
+TRACE   2017-02-14 19:15:18,454 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - тылу added in collection
+TRACE   2017-02-14 19:15:18,454 [Thread-3] com.innopolis.smoldyrev.collector.WordCollector  - федеральной added in collection
+TRACE   2017-02-14 19:15:18,456 [Thread-2] com.innopolis.smoldyrev.resource.ParsedTextFile  - resources/1.txt was parsed. 231 words
+ERROR   2017-02-14 19:15:18,457 [Thread-4] com.innopolis.smoldyrev.collector.ThreadWordCollect  - Текст "resources/3.txt" содержит не кирилические символы!
+TRACE 2017-02-14 19:27:27,932 ParsedTextFile/[Thread-1]  - (resources/6.txt was parsed. 3 words)
+TRACE 2017-02-14 19:27:27,936 WordCollector/[Thread-1]  - (идея added in collection)
+TRACE 2017-02-14 19:27:27,949 ParsedTextFile/[Thread-0]  - (resources/5.txt was parsed. 6 words)
+TRACE 2017-02-14 19:27:27,949 WordCollector/[Thread-0]  - (егор added in collection)
+TRACE 2017-02-14 19:27:27,978 ParsedTextFile/[Thread-2]  - (resources/1.txt was parsed. 231 words)
+TRACE 2017-02-14 19:27:27,979 WordCollector/[Thread-2]  - (северовирджинская added in collection)
+TRACE 2017-02-14 19:27:27,979 WordCollector/[Thread-2]  - (кампания added in collection)
+TRACE 2017-02-14 19:27:27,979 WordCollector/[Thread-2]  - (серия added in collection)
+TRACE 2017-02-14 19:27:27,979 WordCollector/[Thread-2]  - (сражений added in collection)
+TRACE 2017-02-14 19:27:27,979 WordCollector/[Thread-2]  - (на added in collection)
+TRACE 2017-02-14 19:27:27,979 WordCollector/[Thread-2]  - (территории added in collection)
+TRACE 2017-02-14 19:27:27,979 WordCollector/[Thread-2]  - (штата added in collection)
+TRACE 2017-02-14 19:27:27,980 WordCollector/[Thread-2]  - (вирджиния added in collection)
+TRACE 2017-02-14 19:27:27,980 WordCollector/[Thread-2]  - (которые added in collection)
+TRACE 2017-02-14 19:27:27,980 WordCollector/[Thread-2]  - (произошли added in collection)
+TRACE 2017-02-14 19:27:27,980 WordCollector/[Thread-2]  - (в added in collection)
+TRACE 2017-02-14 19:27:27,988 WordCollector/[Thread-2]  - (августе added in collection)
+TRACE 2017-02-14 19:27:27,989 WordCollector/[Thread-2]  - (и added in collection)
+TRACE 2017-02-14 19:27:27,989 WordCollector/[Thread-2]  - (сентябре added in collection)
+TRACE 2017-02-14 19:27:27,989 WordCollector/[Thread-2]  - (года added in collection)
+TRACE 2017-02-14 19:27:27,989 WordCollector/[Thread-2]  - (ходе added in collection)
+TRACE 2017-02-14 19:27:27,989 WordCollector/[Thread-2]  - (американской added in collection)
+TRACE 2017-02-14 19:27:27,989 WordCollector/[Thread-2]  - (гражданской added in collection)
+TRACE 2017-02-14 19:27:27,990 WordCollector/[Thread-2]  - (войны added in collection)
+TRACE 2017-02-14 19:27:27,990 WordCollector/[Thread-2]  - (генерал added in collection)
+TRACE 2017-02-14 19:27:27,990 WordCollector/[Thread-2]  - (конфедерации added in collection)
+TRACE 2017-02-14 19:27:27,990 WordCollector/[Thread-2]  - (роберт added in collection)
+TRACE 2017-02-14 19:27:27,990 WordCollector/[Thread-2]  - (ли added in collection)
+TRACE 2017-02-14 19:27:27,990 WordCollector/[Thread-2]  - (сумел added in collection)
+TRACE 2017-02-14 19:27:27,990 WordCollector/[Thread-2]  - (развить added in collection)
+TRACE 2017-02-14 19:27:27,990 WordCollector/[Thread-2]  - (свой added in collection)
+TRACE 2017-02-14 19:27:27,991 WordCollector/[Thread-2]  - (успех added in collection)
+TRACE 2017-02-14 19:27:27,991 WordCollector/[Thread-2]  - (семидневной added in collection)
+TRACE 2017-02-14 19:27:27,991 WordCollector/[Thread-2]  - (битве added in collection)
+TRACE 2017-02-14 19:27:27,991 WordCollector/[Thread-2]  - (перенёс added in collection)
+TRACE 2017-02-14 19:27:27,991 WordCollector/[Thread-2]  - (боевые added in collection)
+TRACE 2017-02-14 19:27:27,991 WordCollector/[Thread-2]  - (действия added in collection)
+TRACE 2017-02-14 19:27:27,997 WordCollector/[Thread-2]  - (северную added in collection)
+TRACE 2017-02-14 19:27:27,997 WordCollector/[Thread-2]  - (вирджинию added in collection)
+TRACE 2017-02-14 19:27:27,997 WordCollector/[Thread-2]  - (где added in collection)
+TRACE 2017-02-14 19:27:27,997 WordCollector/[Thread-2]  - (разбил added in collection)
+TRACE 2017-02-14 19:27:27,997 WordCollector/[Thread-2]  - (федеральную added in collection)
+TRACE 2017-02-14 19:27:27,997 WordCollector/[Thread-2]  - (вирджинскую added in collection)
+TRACE 2017-02-14 19:27:27,998 WordCollector/[Thread-2]  - (армию added in collection)
+TRACE 2017-02-14 19:27:27,998 WordCollector/[Thread-2]  - (генерала added in collection)
+TRACE 2017-02-14 19:27:27,998 WordCollector/[Thread-2]  - (джона added in collection)
+TRACE 2017-02-14 19:27:27,998 WordCollector/[Thread-2]  - (поупа added in collection)
+TRACE 2017-02-14 19:27:27,998 WordCollector/[Thread-2]  - (заставив added in collection)
+TRACE 2017-02-14 19:27:27,998 WordCollector/[Thread-2]  - (её added in collection)
+TRACE 2017-02-14 19:27:27,998 WordCollector/[Thread-2]  - (отступить added in collection)
+TRACE 2017-02-14 19:27:27,999 WordCollector/[Thread-2]  - (укрепления added in collection)
+TRACE 2017-02-14 19:27:27,999 WordCollector/[Thread-2]  - (вашингтона added in collection)
+TRACE 2017-02-14 19:27:28,000 WordCollector/[Thread-2]  - (предполагая added in collection)
+TRACE 2017-02-14 19:27:28,000 WordCollector/[Thread-2]  - (что added in collection)
+TRACE 2017-02-14 19:27:28,000 WordCollector/[Thread-2]  - (потомакская added in collection)
+TRACE 2017-02-14 19:27:28,001 WordCollector/[Thread-2]  - (армия added in collection)
+TRACE 2017-02-14 19:27:28,001 WordCollector/[Thread-2]  - (вирджинском added in collection)
+TRACE 2017-02-14 19:27:28,001 WordCollector/[Thread-2]  - (полуострове added in collection)
+TRACE 2017-02-14 19:27:28,001 WordCollector/[Thread-2]  - (намерена added in collection)
+TRACE 2017-02-14 19:27:28,001 WordCollector/[Thread-2]  - (соединиться added in collection)
+TRACE 2017-02-14 19:27:28,001 WordCollector/[Thread-2]  - (с added in collection)
+TRACE 2017-02-14 19:27:28,001 WordCollector/[Thread-2]  - (вирджинской added in collection)
+TRACE 2017-02-14 19:27:28,002 WordCollector/[Thread-2]  - (армией added in collection)
+TRACE 2017-02-14 19:27:28,002 ParsedTextFile/[Thread-3]  - (resources/2.txt was parsed. 231 words)
+TRACE 2017-02-14 19:27:28,003 WordCollector/[Thread-2]  - (отправил added in collection)
+TRACE 2017-02-14 19:27:28,003 WordCollector/[Thread-2]  - (несколько added in collection)
+TRACE 2017-02-14 19:27:28,003 WordCollector/[Thread-2]  - (дивизий added in collection)
+TRACE 2017-02-14 19:27:28,003 WordCollector/[Thread-2]  - (томаса added in collection)
+TRACE 2017-02-14 19:27:28,003 WordCollector/[Thread-2]  - (джексона added in collection)
+TRACE 2017-02-14 19:27:28,003 WordCollector/[Thread-2]  - (от added in collection)
+TRACE 2017-02-14 19:27:28,003 WordCollector/[Thread-2]  - (ричмонда added in collection)
+TRACE 2017-02-14 19:27:28,004 WordCollector/[Thread-2]  - (север added in collection)
+TRACE 2017-02-14 19:27:28,004 WordCollector/[Thread-2]  - (чтобы added in collection)
+TRACE 2017-02-14 19:27:28,004 WordCollector/[Thread-2]  - (сорвать added in collection)
+TRACE 2017-02-14 19:27:28,004 WordCollector/[Thread-2]  - (наступление added in collection)
+TRACE 2017-02-14 19:27:28,004 WordCollector/[Thread-2]  - (гордонсвилл added in collection)
+TRACE 2017-02-14 19:27:28,004 WordCollector/[Thread-2]  - (по added in collection)
+TRACE 2017-02-14 19:27:28,005 WordCollector/[Thread-2]  - (возможности added in collection)
+TRACE 2017-02-14 19:27:28,005 WordCollector/[Thread-2]  - (разбить added in collection)
+TRACE 2017-02-14 19:27:28,005 WordCollector/[Thread-2]  - (его added in collection)
+TRACE 2017-02-14 19:27:28,005 WordCollector/[Thread-2]  - (до added in collection)
+TRACE 2017-02-14 19:27:28,005 WordCollector/[Thread-2]  - (подхода added in collection)
+TRACE 2017-02-14 19:27:28,005 WordCollector/[Thread-2]  - (корпусов added in collection)
+TRACE 2017-02-14 19:27:28,005 WordCollector/[Thread-2]  - (потомакской added in collection)
+TRACE 2017-02-14 19:27:28,005 WordCollector/[Thread-2]  - (армии added in collection)
+TRACE 2017-02-14 19:27:28,006 WordCollector/[Thread-2]  - (августа added in collection)
+TRACE 2017-02-14 19:27:28,006 WordCollector/[Thread-2]  - (произошло added in collection)
+TRACE 2017-02-14 19:27:28,006 WordCollector/[Thread-2]  - (небольшое added in collection)
+TRACE 2017-02-14 19:27:28,006 WordCollector/[Thread-2]  - (столкновение added in collection)
+TRACE 2017-02-14 19:27:28,006 WordCollector/[Thread-2]  - (у added in collection)
+TRACE 2017-02-14 19:27:28,006 WordCollector/[Thread-2]  - (кедровой added in collection)
+TRACE 2017-02-14 19:27:28,006 WordCollector/[Thread-2]  - (горы added in collection)
+TRACE 2017-02-14 19:27:28,007 WordCollector/[Thread-2]  - (которое added in collection)
+TRACE 2017-02-14 19:27:28,007 WordCollector/[Thread-2]  - (закончилось added in collection)
+TRACE 2017-02-14 19:27:28,007 WordCollector/[Thread-2]  - (победой added in collection)
+TRACE 2017-02-14 19:27:28,007 WordCollector/[Thread-2]  - (юга added in collection)
+TRACE 2017-02-14 19:27:28,007 WordCollector/[Thread-2]  - (предположил added in collection)
+TRACE 2017-02-14 19:27:28,007 WordCollector/[Thread-2]  - (макклеллана added in collection)
+TRACE 2017-02-14 19:27:28,008 WordCollector/[Thread-2]  - (более added in collection)
+TRACE 2017-02-14 19:27:28,008 WordCollector/[Thread-2]  - (не added in collection)
+TRACE 2017-02-14 19:27:28,008 WordCollector/[Thread-2]  - (угрожает added in collection)
+TRACE 2017-02-14 19:27:28,008 WordCollector/[Thread-2]  - (ричмонду added in collection)
+TRACE 2017-02-14 19:27:28,008 WordCollector/[Thread-2]  - (поэтому added in collection)
+TRACE 2017-02-14 19:27:28,008 WordCollector/[Thread-2]  - (все added in collection)
+TRACE 2017-02-14 19:27:28,008 WordCollector/[Thread-2]  - (остальные added in collection)
+TRACE 2017-02-14 19:27:28,009 WordCollector/[Thread-2]  - (дивизии added in collection)
+TRACE 2017-02-14 19:27:28,009 WordCollector/[Thread-2]  - (под added in collection)
+TRACE 2017-02-14 19:27:28,009 WordCollector/[Thread-2]  - (командованием added in collection)
+TRACE 2017-02-14 19:27:28,009 WordCollector/[Thread-2]  - (джеймса added in collection)
+TRACE 2017-02-14 19:27:28,009 WordCollector/[Thread-2]  - (лонгстрита added in collection)
+TRACE 2017-02-14 19:27:28,009 WordCollector/[Thread-2]  - (вслед added in collection)
+TRACE 2017-02-14 19:27:28,009 WordCollector/[Thread-2]  - (за added in collection)
+TRACE 2017-02-14 19:27:28,010 WordCollector/[Thread-2]  - (джексоном added in collection)
+TRACE 2017-02-14 19:27:28,010 WordCollector/[Thread-2]  - (он added in collection)
+TRACE 2017-02-14 19:27:28,010 WordCollector/[Thread-2]  - (планировал added in collection)
+TRACE 2017-02-14 19:27:28,010 WordCollector/[Thread-2]  - (окружить added in collection)
+TRACE 2017-02-14 19:27:28,010 WordCollector/[Thread-2]  - (противника added in collection)
+TRACE 2017-02-14 19:27:28,010 WordCollector/[Thread-2]  - (рубеже added in collection)
+TRACE 2017-02-14 19:27:28,011 WordCollector/[Thread-2]  - (реки added in collection)
+TRACE 2017-02-14 19:27:28,011 WordCollector/[Thread-2]  - (рапидан added in collection)
+TRACE 2017-02-14 19:27:28,011 WordCollector/[Thread-2]  - (но added in collection)
+TRACE 2017-02-14 19:27:28,011 WordCollector/[Thread-2]  - (этот added in collection)
+TRACE 2017-02-14 19:27:28,011 WordCollector/[Thread-2]  - (план added in collection)
+TRACE 2017-02-14 19:27:28,011 WordCollector/[Thread-2]  - (сорвался added in collection)
+TRACE 2017-02-14 19:27:28,011 WordCollector/[Thread-2]  - (тогда added in collection)
+TRACE 2017-02-14 19:27:28,011 WordCollector/[Thread-2]  - (томас added in collection)
+TRACE 2017-02-14 19:27:28,012 WordCollector/[Thread-2]  - (джексон added in collection)
+TRACE 2017-02-14 19:27:28,012 WordCollector/[Thread-2]  - (совершил added in collection)
+TRACE 2017-02-14 19:27:28,012 WordCollector/[Thread-2]  - (глубокий added in collection)
+TRACE 2017-02-14 19:27:28,012 WordCollector/[Thread-2]  - (фланговый added in collection)
+TRACE 2017-02-14 19:27:28,012 WordCollector/[Thread-2]  - (обход added in collection)
+TRACE 2017-02-14 19:27:28,012 WordCollector/[Thread-2]  - (захватил added in collection)
+TRACE 2017-02-14 19:27:28,013 WordCollector/[Thread-2]  - (манассас added in collection)
+TRACE 2017-02-14 19:27:28,013 WordCollector/[Thread-2]  - (крупную added in collection)
+TRACE 2017-02-14 19:27:28,013 WordCollector/[Thread-2]  - (базу added in collection)
+TRACE 2017-02-14 19:27:28,013 WordCollector/[Thread-2]  - (снабжения added in collection)
+TRACE 2017-02-14 19:27:28,013 WordCollector/[Thread-2]  - (тылу added in collection)
+TRACE 2017-02-14 19:27:28,013 WordCollector/[Thread-2]  - (федеральной added in collection)
+TRACE 2017-02-14 19:27:28,014 WordCollector/[Thread-2]  - (затем added in collection)
+TRACE 2017-02-14 19:27:28,014 WordCollector/[Thread-2]  - (отступил added in collection)
+TRACE 2017-02-14 19:27:28,014 WordCollector/[Thread-2]  - (выгодную added in collection)
+TRACE 2017-02-14 19:27:28,014 WordCollector/[Thread-2]  - (позицию added in collection)
+TRACE 2017-02-14 19:27:28,014 WordCollector/[Thread-2]  - (возле added in collection)
+TRACE 2017-02-14 19:27:28,014 WordCollector/[Thread-2]  - (того added in collection)
+TRACE 2017-02-14 19:27:28,014 WordCollector/[Thread-2]  - (места added in collection)
+TRACE 2017-02-14 19:27:28,021 WordCollector/[Thread-3]  - (году added in collection)
+TRACE 2017-02-14 19:27:28,021 WordCollector/[Thread-3]  - (первое added in collection)
+TRACE 2017-02-14 19:27:28,021 WordCollector/[Thread-3]  - (сражение added in collection)
+TRACE 2017-02-14 19:27:28,021 WordCollector/[Thread-3]  - (при added in collection)
+TRACE 2017-02-14 19:27:28,021 WordCollector/[Thread-3]  - (булл-ран added in collection)
+TRACE 2017-02-14 19:27:28,021 WordCollector/[Thread-3]  - (отразил added in collection)
+TRACE 2017-02-14 19:27:28,022 WordCollector/[Thread-3]  - (атак added in collection)
+TRACE 2017-02-14 19:27:28,022 WordCollector/[Thread-3]  - (последовала added in collection)
+TRACE 2017-02-14 19:27:28,022 WordCollector/[Thread-3]  - (совместная added in collection)
+TRACE 2017-02-14 19:27:28,022 WordCollector/[Thread-3]  - (атака added in collection)
+TRACE 2017-02-14 19:27:28,022 WordCollector/[Thread-3]  - (которая added in collection)
+TRACE 2017-02-14 19:27:28,022 WordCollector/[Thread-3]  - (застала added in collection)
+TRACE 2017-02-14 19:27:28,023 WordCollector/[Thread-3]  - (врасплох added in collection)
+TRACE 2017-02-14 19:27:28,023 WordCollector/[Thread-3]  - (заставила added in collection)
+TRACE 2017-02-14 19:27:28,023 WordCollector/[Thread-3]  - (большими added in collection)
+TRACE 2017-02-14 19:27:28,023 WordCollector/[Thread-3]  - (потерями added in collection)
+TRACE 2017-02-14 19:27:28,023 WordCollector/[Thread-3]  - (завершилась added in collection)
+TRACE 2017-02-14 19:27:28,023 WordCollector/[Thread-3]  - (ещё added in collection)
+TRACE 2017-02-14 19:27:28,024 WordCollector/[Thread-3]  - (одним added in collection)
+TRACE 2017-02-14 19:27:28,024 WordCollector/[Thread-3]  - (манёвром added in collection)
+TRACE 2017-02-14 19:27:28,024 WordCollector/[Thread-3]  - (который added in collection)
+TRACE 2017-02-14 19:27:28,024 WordCollector/[Thread-3]  - (сентября added in collection)
+TRACE 2017-02-14 19:27:28,024 WordCollector/[Thread-3]  - (привёл added in collection)
+TRACE 2017-02-14 19:27:28,024 WordCollector/[Thread-3]  - (к added in collection)
+TRACE 2017-02-14 19:27:28,024 WordCollector/[Thread-3]  - (сражению added in collection)
+TRACE 2017-02-14 19:27:28,025 WordCollector/[Thread-3]  - (шантильи added in collection)
+TRACE 2017-02-14 19:27:28,025 WordCollector/[Thread-3]  - (управлению added in collection)
+TRACE 2017-02-14 19:27:28,025 WordCollector/[Thread-3]  - (войсками added in collection)
+TRACE 2017-02-14 19:27:28,025 WordCollector/[Thread-3]  - (этой added in collection)
+TRACE 2017-02-14 19:27:28,025 WordCollector/[Thread-3]  - (кампании added in collection)
+TRACE 2017-02-14 19:27:28,025 WordCollector/[Thread-3]  - (считаются added in collection)
+TRACE 2017-02-14 19:27:28,026 WordCollector/[Thread-3]  - (шедевром added in collection)
+TRACE 2017-02-14 19:27:28,026 WordCollector/[Thread-3]  - (военного added in collection)
+TRACE 2017-02-14 19:27:28,026 WordCollector/[Thread-3]  - (искусства added in collection)
+TRACE 2017-02-14 19:27:28,026 WordCollector/[Thread-3]  - (историк added in collection)
+TRACE 2017-02-14 19:27:28,026 WordCollector/[Thread-3]  - (джон added in collection)
+TRACE 2017-02-14 19:27:28,026 WordCollector/[Thread-3]  - (хеннесси added in collection)
+TRACE 2017-02-14 19:27:28,027 WordCollector/[Thread-3]  - (писал added in collection)
+TRACE 2017-02-14 19:27:28,177 ParsedTextFile/[Thread-4]  - (resources/3.txt was parsed. 7371 words)
+TRACE 2017-02-14 19:27:28,187 WordCollector/[Thread-4]  - (чтосеверовирджинская added in collection)
+TRACE 2017-02-14 19:29:04,558 ThreadWordCollect/[Thread-0]  - (thread was started)
+TRACE 2017-02-14 19:29:04,559 ThreadWordCollect/[Thread-4]  - (thread was started)
+TRACE 2017-02-14 19:29:04,559 ThreadWordCollect/[Thread-3]  - (thread was started)
+TRACE 2017-02-14 19:29:04,559 ThreadWordCollect/[Thread-2]  - (thread was started)
+TRACE 2017-02-14 19:29:04,558 ThreadWordCollect/[Thread-1]  - (thread was started)
+TRACE 2017-02-14 19:29:04,579 ParsedTextFile/[Thread-1]  - (resources/6.txt was parsed. 3 words)
+TRACE 2017-02-14 19:29:04,582 WordCollector/[Thread-1]  - (идея added in collection)
+TRACE 2017-02-14 19:29:04,582 ThreadWordCollect/[Thread-1]  - (thread was ended)
+TRACE 2017-02-14 19:29:04,584 ParsedTextFile/[Thread-0]  - (resources/5.txt was parsed. 6 words)
+TRACE 2017-02-14 19:29:04,584 WordCollector/[Thread-0]  - (егор added in collection)
+TRACE 2017-02-14 19:29:04,585 ThreadWordCollect/[Thread-0]  - (thread was ended)
+TRACE 2017-02-14 19:29:04,635 ParsedTextFile/[Thread-3]  - (resources/2.txt was parsed. 231 words)
+TRACE 2017-02-14 19:29:04,635 WordCollector/[Thread-3]  - (северовирджинская added in collection)
+TRACE 2017-02-14 19:29:04,636 WordCollector/[Thread-3]  - (кампания added in collection)
+TRACE 2017-02-14 19:29:04,636 WordCollector/[Thread-3]  - (серия added in collection)
+TRACE 2017-02-14 19:29:04,636 WordCollector/[Thread-3]  - (сражений added in collection)
+TRACE 2017-02-14 19:29:04,637 ParsedTextFile/[Thread-2]  - (resources/1.txt was parsed. 231 words)
+TRACE 2017-02-14 19:29:04,643 WordCollector/[Thread-3]  - (на added in collection)
+TRACE 2017-02-14 19:29:04,643 WordCollector/[Thread-3]  - (территории added in collection)
+TRACE 2017-02-14 19:29:04,643 WordCollector/[Thread-3]  - (штата added in collection)
+TRACE 2017-02-14 19:29:04,643 WordCollector/[Thread-3]  - (вирджиния added in collection)
+TRACE 2017-02-14 19:29:04,644 WordCollector/[Thread-3]  - (которые added in collection)
+TRACE 2017-02-14 19:29:04,644 WordCollector/[Thread-3]  - (произошли added in collection)
+TRACE 2017-02-14 19:29:04,644 WordCollector/[Thread-3]  - (в added in collection)
+TRACE 2017-02-14 19:29:04,644 WordCollector/[Thread-3]  - (августе added in collection)
+TRACE 2017-02-14 19:29:04,644 WordCollector/[Thread-3]  - (и added in collection)
+TRACE 2017-02-14 19:29:04,644 WordCollector/[Thread-3]  - (сентябре added in collection)
+TRACE 2017-02-14 19:29:04,644 WordCollector/[Thread-3]  - (года added in collection)
+TRACE 2017-02-14 19:29:04,644 WordCollector/[Thread-3]  - (ходе added in collection)
+TRACE 2017-02-14 19:29:04,645 WordCollector/[Thread-3]  - (американской added in collection)
+TRACE 2017-02-14 19:29:04,645 WordCollector/[Thread-3]  - (гражданской added in collection)
+TRACE 2017-02-14 19:29:04,645 WordCollector/[Thread-3]  - (войны added in collection)
+TRACE 2017-02-14 19:29:04,645 WordCollector/[Thread-3]  - (генерал added in collection)
+TRACE 2017-02-14 19:29:04,646 WordCollector/[Thread-2]  - (конфедерации added in collection)
+TRACE 2017-02-14 19:29:04,646 WordCollector/[Thread-2]  - (роберт added in collection)
+TRACE 2017-02-14 19:29:04,646 WordCollector/[Thread-2]  - (ли added in collection)
+TRACE 2017-02-14 19:29:04,646 WordCollector/[Thread-2]  - (сумел added in collection)
+TRACE 2017-02-14 19:29:04,647 WordCollector/[Thread-2]  - (развить added in collection)
+TRACE 2017-02-14 19:29:04,647 WordCollector/[Thread-2]  - (свой added in collection)
+TRACE 2017-02-14 19:29:04,647 WordCollector/[Thread-2]  - (успех added in collection)
+TRACE 2017-02-14 19:29:04,647 WordCollector/[Thread-2]  - (семидневной added in collection)
+TRACE 2017-02-14 19:29:04,647 WordCollector/[Thread-2]  - (битве added in collection)
+TRACE 2017-02-14 19:29:04,647 WordCollector/[Thread-2]  - (перенёс added in collection)
+TRACE 2017-02-14 19:29:04,647 WordCollector/[Thread-2]  - (боевые added in collection)
+TRACE 2017-02-14 19:29:04,648 WordCollector/[Thread-2]  - (действия added in collection)
+TRACE 2017-02-14 19:29:04,648 WordCollector/[Thread-2]  - (северную added in collection)
+TRACE 2017-02-14 19:29:04,648 WordCollector/[Thread-2]  - (вирджинию added in collection)
+TRACE 2017-02-14 19:29:04,648 WordCollector/[Thread-2]  - (где added in collection)
+TRACE 2017-02-14 19:29:04,648 WordCollector/[Thread-2]  - (разбил added in collection)
+TRACE 2017-02-14 19:29:04,648 WordCollector/[Thread-2]  - (федеральную added in collection)
+TRACE 2017-02-14 19:29:04,648 WordCollector/[Thread-2]  - (вирджинскую added in collection)
+TRACE 2017-02-14 19:29:04,648 WordCollector/[Thread-2]  - (армию added in collection)
+TRACE 2017-02-14 19:29:04,649 WordCollector/[Thread-2]  - (генерала added in collection)
+TRACE 2017-02-14 19:29:04,649 WordCollector/[Thread-2]  - (джона added in collection)
+TRACE 2017-02-14 19:29:04,649 WordCollector/[Thread-2]  - (поупа added in collection)
+TRACE 2017-02-14 19:29:04,649 WordCollector/[Thread-2]  - (заставив added in collection)
+TRACE 2017-02-14 19:29:04,653 WordCollector/[Thread-2]  - (её added in collection)
+TRACE 2017-02-14 19:29:04,653 WordCollector/[Thread-2]  - (отступить added in collection)
+TRACE 2017-02-14 19:29:04,654 WordCollector/[Thread-2]  - (укрепления added in collection)
+TRACE 2017-02-14 19:29:04,654 WordCollector/[Thread-2]  - (вашингтона added in collection)
+TRACE 2017-02-14 19:29:04,654 WordCollector/[Thread-2]  - (предполагая added in collection)
+TRACE 2017-02-14 19:29:04,654 WordCollector/[Thread-2]  - (что added in collection)
+TRACE 2017-02-14 19:29:04,654 WordCollector/[Thread-2]  - (потомакская added in collection)
+TRACE 2017-02-14 19:29:04,654 WordCollector/[Thread-2]  - (армия added in collection)
+TRACE 2017-02-14 19:29:04,655 WordCollector/[Thread-2]  - (вирджинском added in collection)
+TRACE 2017-02-14 19:29:04,655 WordCollector/[Thread-2]  - (полуострове added in collection)
+TRACE 2017-02-14 19:29:04,655 WordCollector/[Thread-2]  - (намерена added in collection)
+TRACE 2017-02-14 19:29:04,655 WordCollector/[Thread-2]  - (соединиться added in collection)
+TRACE 2017-02-14 19:29:04,655 WordCollector/[Thread-2]  - (с added in collection)
+TRACE 2017-02-14 19:29:04,655 WordCollector/[Thread-2]  - (вирджинской added in collection)
+TRACE 2017-02-14 19:29:04,655 WordCollector/[Thread-2]  - (армией added in collection)
+TRACE 2017-02-14 19:29:04,656 WordCollector/[Thread-2]  - (отправил added in collection)
+TRACE 2017-02-14 19:29:04,656 WordCollector/[Thread-2]  - (несколько added in collection)
+TRACE 2017-02-14 19:29:04,656 WordCollector/[Thread-2]  - (дивизий added in collection)
+TRACE 2017-02-14 19:29:04,656 WordCollector/[Thread-2]  - (томаса added in collection)
+TRACE 2017-02-14 19:29:04,656 WordCollector/[Thread-2]  - (джексона added in collection)
+TRACE 2017-02-14 19:29:04,656 WordCollector/[Thread-2]  - (от added in collection)
+TRACE 2017-02-14 19:29:04,656 WordCollector/[Thread-2]  - (ричмонда added in collection)
+TRACE 2017-02-14 19:29:04,657 WordCollector/[Thread-2]  - (север added in collection)
+TRACE 2017-02-14 19:29:04,657 WordCollector/[Thread-2]  - (чтобы added in collection)
+TRACE 2017-02-14 19:29:04,657 WordCollector/[Thread-2]  - (сорвать added in collection)
+TRACE 2017-02-14 19:29:04,657 WordCollector/[Thread-2]  - (наступление added in collection)
+TRACE 2017-02-14 19:29:04,657 WordCollector/[Thread-2]  - (гордонсвилл added in collection)
+TRACE 2017-02-14 19:29:04,657 WordCollector/[Thread-2]  - (по added in collection)
+TRACE 2017-02-14 19:29:04,657 WordCollector/[Thread-2]  - (возможности added in collection)
+TRACE 2017-02-14 19:29:04,658 WordCollector/[Thread-2]  - (разбить added in collection)
+TRACE 2017-02-14 19:29:04,658 WordCollector/[Thread-2]  - (его added in collection)
+TRACE 2017-02-14 19:29:04,658 WordCollector/[Thread-2]  - (до added in collection)
+TRACE 2017-02-14 19:29:04,658 WordCollector/[Thread-2]  - (подхода added in collection)
+TRACE 2017-02-14 19:29:04,658 WordCollector/[Thread-2]  - (корпусов added in collection)
+TRACE 2017-02-14 19:29:04,658 WordCollector/[Thread-2]  - (потомакской added in collection)
+TRACE 2017-02-14 19:29:04,658 WordCollector/[Thread-2]  - (армии added in collection)
+TRACE 2017-02-14 19:29:04,663 WordCollector/[Thread-3]  - (августа added in collection)
+TRACE 2017-02-14 19:29:04,663 WordCollector/[Thread-3]  - (произошло added in collection)
+TRACE 2017-02-14 19:29:04,663 WordCollector/[Thread-3]  - (небольшое added in collection)
+TRACE 2017-02-14 19:29:04,663 WordCollector/[Thread-3]  - (столкновение added in collection)
+TRACE 2017-02-14 19:29:04,664 WordCollector/[Thread-3]  - (у added in collection)
+TRACE 2017-02-14 19:29:04,664 WordCollector/[Thread-3]  - (кедровой added in collection)
+TRACE 2017-02-14 19:29:04,664 WordCollector/[Thread-3]  - (горы added in collection)
+TRACE 2017-02-14 19:29:04,664 WordCollector/[Thread-3]  - (которое added in collection)
+TRACE 2017-02-14 19:29:04,664 WordCollector/[Thread-3]  - (закончилось added in collection)
+TRACE 2017-02-14 19:29:04,664 WordCollector/[Thread-3]  - (победой added in collection)
+TRACE 2017-02-14 19:29:04,664 WordCollector/[Thread-3]  - (юга added in collection)
+TRACE 2017-02-14 19:29:04,665 WordCollector/[Thread-3]  - (предположил added in collection)
+TRACE 2017-02-14 19:29:04,665 WordCollector/[Thread-3]  - (макклеллана added in collection)
+TRACE 2017-02-14 19:29:04,665 WordCollector/[Thread-3]  - (более added in collection)
+TRACE 2017-02-14 19:29:04,665 WordCollector/[Thread-3]  - (не added in collection)
+TRACE 2017-02-14 19:29:04,665 WordCollector/[Thread-3]  - (угрожает added in collection)
+TRACE 2017-02-14 19:29:04,666 WordCollector/[Thread-3]  - (ричмонду added in collection)
+TRACE 2017-02-14 19:29:04,666 WordCollector/[Thread-3]  - (поэтому added in collection)
+TRACE 2017-02-14 19:29:04,666 WordCollector/[Thread-3]  - (все added in collection)
+TRACE 2017-02-14 19:29:04,666 WordCollector/[Thread-3]  - (остальные added in collection)
+TRACE 2017-02-14 19:29:04,666 WordCollector/[Thread-3]  - (дивизии added in collection)
+TRACE 2017-02-14 19:29:04,666 WordCollector/[Thread-3]  - (под added in collection)
+TRACE 2017-02-14 19:29:04,666 WordCollector/[Thread-3]  - (командованием added in collection)
+TRACE 2017-02-14 19:29:04,666 WordCollector/[Thread-3]  - (джеймса added in collection)
+TRACE 2017-02-14 19:29:04,667 WordCollector/[Thread-3]  - (лонгстрита added in collection)
+TRACE 2017-02-14 19:29:04,667 WordCollector/[Thread-3]  - (вслед added in collection)
+TRACE 2017-02-14 19:29:04,667 WordCollector/[Thread-3]  - (за added in collection)
+TRACE 2017-02-14 19:29:04,667 WordCollector/[Thread-3]  - (джексоном added in collection)
+TRACE 2017-02-14 19:29:04,667 WordCollector/[Thread-3]  - (он added in collection)
+TRACE 2017-02-14 19:29:04,668 WordCollector/[Thread-3]  - (планировал added in collection)
+TRACE 2017-02-14 19:29:04,668 WordCollector/[Thread-3]  - (окружить added in collection)
+TRACE 2017-02-14 19:29:04,668 WordCollector/[Thread-3]  - (противника added in collection)
+TRACE 2017-02-14 19:29:04,668 WordCollector/[Thread-3]  - (рубеже added in collection)
+TRACE 2017-02-14 19:29:04,668 WordCollector/[Thread-3]  - (реки added in collection)
+TRACE 2017-02-14 19:29:04,668 WordCollector/[Thread-3]  - (рапидан added in collection)
+TRACE 2017-02-14 19:29:04,668 WordCollector/[Thread-3]  - (но added in collection)
+TRACE 2017-02-14 19:29:04,669 WordCollector/[Thread-3]  - (этот added in collection)
+TRACE 2017-02-14 19:29:04,669 WordCollector/[Thread-3]  - (план added in collection)
+TRACE 2017-02-14 19:29:04,669 WordCollector/[Thread-3]  - (сорвался added in collection)
+TRACE 2017-02-14 19:29:04,669 WordCollector/[Thread-3]  - (тогда added in collection)
+TRACE 2017-02-14 19:29:04,669 WordCollector/[Thread-3]  - (томас added in collection)
+TRACE 2017-02-14 19:29:04,669 WordCollector/[Thread-3]  - (джексон added in collection)
+TRACE 2017-02-14 19:29:04,669 WordCollector/[Thread-3]  - (совершил added in collection)
+TRACE 2017-02-14 19:29:04,670 WordCollector/[Thread-3]  - (глубокий added in collection)
+TRACE 2017-02-14 19:29:04,670 WordCollector/[Thread-3]  - (фланговый added in collection)
+TRACE 2017-02-14 19:29:04,670 WordCollector/[Thread-3]  - (обход added in collection)
+TRACE 2017-02-14 19:29:04,670 WordCollector/[Thread-3]  - (захватил added in collection)
+TRACE 2017-02-14 19:29:04,670 WordCollector/[Thread-3]  - (манассас added in collection)
+TRACE 2017-02-14 19:29:04,670 WordCollector/[Thread-3]  - (крупную added in collection)
+TRACE 2017-02-14 19:29:04,670 WordCollector/[Thread-3]  - (базу added in collection)
+TRACE 2017-02-14 19:29:04,673 WordCollector/[Thread-2]  - (снабжения added in collection)
+TRACE 2017-02-14 19:29:04,673 WordCollector/[Thread-2]  - (тылу added in collection)
+TRACE 2017-02-14 19:29:04,673 WordCollector/[Thread-2]  - (федеральной added in collection)
+TRACE 2017-02-14 19:29:04,673 WordCollector/[Thread-2]  - (затем added in collection)
+TRACE 2017-02-14 19:29:04,673 WordCollector/[Thread-2]  - (отступил added in collection)
+TRACE 2017-02-14 19:29:04,673 WordCollector/[Thread-2]  - (выгодную added in collection)
+TRACE 2017-02-14 19:29:04,674 WordCollector/[Thread-2]  - (позицию added in collection)
+TRACE 2017-02-14 19:29:04,674 WordCollector/[Thread-2]  - (возле added in collection)
+TRACE 2017-02-14 19:29:04,674 WordCollector/[Thread-2]  - (того added in collection)
+TRACE 2017-02-14 19:29:04,674 WordCollector/[Thread-2]  - (места added in collection)
+TRACE 2017-02-14 19:29:04,674 WordCollector/[Thread-2]  - (году added in collection)
+TRACE 2017-02-14 19:29:04,674 WordCollector/[Thread-2]  - (первое added in collection)
+TRACE 2017-02-14 19:29:04,674 WordCollector/[Thread-2]  - (сражение added in collection)
+TRACE 2017-02-14 19:29:04,675 WordCollector/[Thread-2]  - (при added in collection)
+TRACE 2017-02-14 19:29:04,675 WordCollector/[Thread-2]  - (булл-ран added in collection)
+TRACE 2017-02-14 19:29:04,675 WordCollector/[Thread-2]  - (отразил added in collection)
+TRACE 2017-02-14 19:29:04,675 WordCollector/[Thread-2]  - (атак added in collection)
+TRACE 2017-02-14 19:29:04,675 WordCollector/[Thread-2]  - (последовала added in collection)
+TRACE 2017-02-14 19:29:04,675 WordCollector/[Thread-2]  - (совместная added in collection)
+TRACE 2017-02-14 19:29:04,676 WordCollector/[Thread-2]  - (атака added in collection)
+TRACE 2017-02-14 19:29:04,676 WordCollector/[Thread-2]  - (которая added in collection)
+TRACE 2017-02-14 19:29:04,676 WordCollector/[Thread-2]  - (застала added in collection)
+TRACE 2017-02-14 19:29:04,676 WordCollector/[Thread-2]  - (врасплох added in collection)
+TRACE 2017-02-14 19:29:04,676 WordCollector/[Thread-2]  - (заставила added in collection)
+TRACE 2017-02-14 19:29:04,676 WordCollector/[Thread-2]  - (большими added in collection)
+TRACE 2017-02-14 19:29:04,677 WordCollector/[Thread-2]  - (потерями added in collection)
+TRACE 2017-02-14 19:29:04,677 WordCollector/[Thread-2]  - (завершилась added in collection)
+TRACE 2017-02-14 19:29:04,677 WordCollector/[Thread-2]  - (ещё added in collection)
+TRACE 2017-02-14 19:29:04,677 WordCollector/[Thread-2]  - (одним added in collection)
+TRACE 2017-02-14 19:29:04,677 WordCollector/[Thread-2]  - (манёвром added in collection)
+TRACE 2017-02-14 19:29:04,677 WordCollector/[Thread-2]  - (который added in collection)
+TRACE 2017-02-14 19:29:04,677 WordCollector/[Thread-2]  - (сентября added in collection)
+TRACE 2017-02-14 19:29:04,678 WordCollector/[Thread-2]  - (привёл added in collection)
+TRACE 2017-02-14 19:29:04,678 WordCollector/[Thread-2]  - (к added in collection)
+TRACE 2017-02-14 19:29:04,678 WordCollector/[Thread-2]  - (сражению added in collection)
+TRACE 2017-02-14 19:29:04,678 WordCollector/[Thread-2]  - (шантильи added in collection)
+TRACE 2017-02-14 19:29:04,678 WordCollector/[Thread-2]  - (управлению added in collection)
+TRACE 2017-02-14 19:29:04,678 WordCollector/[Thread-2]  - (войсками added in collection)
+TRACE 2017-02-14 19:29:04,679 WordCollector/[Thread-2]  - (этой added in collection)
+TRACE 2017-02-14 19:29:04,679 WordCollector/[Thread-2]  - (кампании added in collection)
+TRACE 2017-02-14 19:29:04,679 WordCollector/[Thread-2]  - (считаются added in collection)
+TRACE 2017-02-14 19:29:04,679 WordCollector/[Thread-2]  - (шедевром added in collection)
+TRACE 2017-02-14 19:29:04,679 WordCollector/[Thread-2]  - (военного added in collection)
+TRACE 2017-02-14 19:29:04,679 WordCollector/[Thread-2]  - (искусства added in collection)
+TRACE 2017-02-14 19:29:04,679 WordCollector/[Thread-2]  - (историк added in collection)
+TRACE 2017-02-14 19:29:04,679 WordCollector/[Thread-2]  - (джон added in collection)
+TRACE 2017-02-14 19:29:04,680 WordCollector/[Thread-2]  - (хеннесси added in collection)
+TRACE 2017-02-14 19:29:04,680 WordCollector/[Thread-2]  - (писал added in collection)
+TRACE 2017-02-14 19:29:04,680 ThreadWordCollect/[Thread-2]  - (thread was ended)
+TRACE 2017-02-14 19:29:04,682 ThreadWordCollect/[Thread-3]  - (thread was ended)
+TRACE 2017-02-14 19:29:04,759 ParsedTextFile/[Thread-4]  - (resources/3.txt was parsed. 7371 words)
+TRACE 2017-02-14 19:29:04,768 WordCollector/[Thread-4]  - (чтосеверовирджинская added in collection)
+TRACE 2017-02-14 19:29:04,808 ThreadWordCollect/[Thread-4]  - (thread was ended)
+TRACE 2017-02-14 20:14:10,331 ThreadWordCollect/[Thread-1]  - (thread was started)
+TRACE 2017-02-14 20:14:10,336 ThreadWordCollect/[Thread-3]  - (thread was started)
+TRACE 2017-02-14 20:14:10,332 ThreadWordCollect/[Thread-2]  - (thread was started)
+TRACE 2017-02-14 20:14:10,349 ParsedTextFile/[Thread-3]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:14:10,349 ParsedTextFile/[Thread-1]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:14:10,349 ParsedTextFile/[Thread-2]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:14:55,704 ThreadWordCollect/[Thread-1]  - (thread was started)
+TRACE 2017-02-14 20:14:55,704 ThreadWordCollect/[Thread-3]  - (thread was started)
+TRACE 2017-02-14 20:14:55,704 ThreadWordCollect/[Thread-2]  - (thread was started)
+TRACE 2017-02-14 20:14:55,717 ParsedTextFile/[Thread-3]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:14:55,717 ParsedTextFile/[Thread-1]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:14:55,719 ParsedTextFile/[Thread-2]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:15:30,025 ThreadWordCollect/[Thread-1]  - (thread was started)
+TRACE 2017-02-14 20:15:30,027 ThreadWordCollect/[Thread-3]  - (thread was started)
+TRACE 2017-02-14 20:15:30,026 ThreadWordCollect/[Thread-2]  - (thread was started)
+TRACE 2017-02-14 20:15:30,041 ParsedTextFile/[Thread-3]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:15:30,041 ParsedTextFile/[Thread-2]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:15:30,042 ParsedTextFile/[Thread-1]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:15:36,677 ThreadWordCollect/[Thread-1]  - (thread was started)
+TRACE 2017-02-14 20:15:36,686 ThreadWordCollect/[Thread-2]  - (thread was started)
+TRACE 2017-02-14 20:15:36,689 ThreadWordCollect/[Thread-3]  - (thread was started)
+TRACE 2017-02-14 20:15:36,691 ParsedTextFile/[Thread-2]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:15:36,692 ParsedTextFile/[Thread-1]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:15:36,693 ParsedTextFile/[Thread-3]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:16:03,375 ThreadWordCollect/[Thread-1]  - (thread was started)
+TRACE 2017-02-14 20:16:03,379 ThreadWordCollect/[Thread-2]  - (thread was started)
+TRACE 2017-02-14 20:16:03,379 ThreadWordCollect/[Thread-3]  - (thread was started)
+TRACE 2017-02-14 20:16:03,398 ParsedTextFile/[Thread-3]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:16:03,398 ParsedTextFile/[Thread-1]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:16:03,399 ParsedTextFile/[Thread-2]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:16:40,075 ThreadWordCollect/[Thread-1]  - (thread was started)
+TRACE 2017-02-14 20:16:40,075 ThreadWordCollect/[Thread-3]  - (thread was started)
+TRACE 2017-02-14 20:16:40,075 ThreadWordCollect/[Thread-2]  - (thread was started)
+TRACE 2017-02-14 20:16:40,086 ParsedTextFile/[Thread-2]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:16:40,087 ParsedTextFile/[Thread-3]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:16:40,089 ParsedTextFile/[Thread-1]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:21:04,447 ThreadWordCollect/[Thread-1]  - (thread was started)
+TRACE 2017-02-14 20:21:04,449 ThreadWordCollect/[Thread-3]  - (thread was started)
+TRACE 2017-02-14 20:21:04,449 ThreadWordCollect/[Thread-2]  - (thread was started)
+TRACE 2017-02-14 20:21:04,458 ParsedTextFile/[Thread-2]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:21:04,458 ParsedTextFile/[Thread-3]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:21:04,459 ParsedTextFile/[Thread-1]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:21:04,463 ThreadWordCollect/[Thread-4]  - (thread was started)
+TRACE 2017-02-14 20:21:04,463 ThreadWordCollect/[Thread-6]  - (thread was started)
+TRACE 2017-02-14 20:21:04,463 ThreadWordCollect/[Thread-5]  - (thread was started)
+TRACE 2017-02-14 20:21:04,463 ParsedTextFile/[Thread-4]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:21:04,463 ParsedTextFile/[Thread-6]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:21:04,463 WordCollector/[Thread-4]  - (один added in collection)
+TRACE 2017-02-14 20:21:04,464 WordCollector/[Thread-4]  - (два added in collection)
+TRACE 2017-02-14 20:21:04,464 WordCollector/[Thread-4]  - (три added in collection)
+TRACE 2017-02-14 20:21:04,464 ThreadWordCollect/[Thread-4]  - (thread was ended)
+TRACE 2017-02-14 20:21:04,464 ThreadWordCollect/[Thread-6]  - (thread was ended)
+TRACE 2017-02-14 20:21:04,467 ParsedTextFile/[Thread-5]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:21:04,467 ThreadWordCollect/[Thread-5]  - (thread was ended)
+TRACE 2017-02-14 20:21:57,413 ThreadWordCollect/[Thread-1]  - (thread was started)
+TRACE 2017-02-14 20:21:57,419 ThreadWordCollect/[Thread-2]  - (thread was started)
+TRACE 2017-02-14 20:21:57,422 ThreadWordCollect/[Thread-3]  - (thread was started)
+TRACE 2017-02-14 20:21:57,424 ParsedTextFile/[Thread-1]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:21:57,424 ParsedTextFile/[Thread-2]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:21:57,425 ParsedTextFile/[Thread-3]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:21:57,429 ThreadWordCollect/[Thread-4]  - (thread was started)
+TRACE 2017-02-14 20:21:57,431 ThreadWordCollect/[Thread-5]  - (thread was started)
+TRACE 2017-02-14 20:21:57,431 ParsedTextFile/[Thread-4]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:21:57,431 WordCollector/[Thread-4]  - (один added in collection)
+TRACE 2017-02-14 20:21:57,431 ParsedTextFile/[Thread-5]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:21:57,431 WordCollector/[Thread-4]  - (два added in collection)
+TRACE 2017-02-14 20:21:57,432 ThreadWordCollect/[Thread-6]  - (thread was started)
+TRACE 2017-02-14 20:21:57,432 WordCollector/[Thread-4]  - (три added in collection)
+TRACE 2017-02-14 20:21:57,432 ThreadWordCollect/[Thread-4]  - (thread was ended)
+TRACE 2017-02-14 20:21:57,432 ThreadWordCollect/[Thread-5]  - (thread was ended)
+TRACE 2017-02-14 20:21:57,432 ParsedTextFile/[Thread-6]  - (resources/test.txt was parsed. 3 words)
+TRACE 2017-02-14 20:21:57,434 ThreadWordCollect/[Thread-6]  - (thread was ended)
